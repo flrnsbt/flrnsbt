@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @flrnsbt
 - 👀 I’m interested in Mobile Application Development (Android, Flutter), Web Development & Python
 - 💞️ I’m looking to collaborate on any Android, Flutter projects...
-- 📫 Reach me on contact@floriansabate.com
+- 📫 Reach me on flrnsbt@gmail.com
